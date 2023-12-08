@@ -1,4 +1,4 @@
-package com.example.test.TestType;
+package com.example.test.type;
 
 public class TestType {
 
